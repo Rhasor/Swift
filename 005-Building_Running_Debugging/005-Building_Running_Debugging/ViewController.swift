@@ -12,7 +12,9 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
-        
+        var names = ["Tammy", "John"]
+        names.removeFirst()
+        names.removeFirst()
     }
 }
 

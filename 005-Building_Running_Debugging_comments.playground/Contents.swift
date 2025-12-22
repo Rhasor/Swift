@@ -9,7 +9,10 @@ import UIKit
 //          types issues:
 //              warnings
 //              compiler errors : more serious issue
-//              bugs
+//              bugs: Fatal error
 
+//          gutter area
+//          break points
 
+//
 
