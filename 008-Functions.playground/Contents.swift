@@ -30,3 +30,9 @@ func display(teamMate: String, score: Int = 0) {
 //print("first team mate: \(rdisplay1)")
 //print("second team mate: \(rdisplay2)")
 
+
+// lab function
+//      1. random number that equal to 4 cases print diferents strings
+//      2. depents of steps number compare with goil number and print differents strings
+//      4. point 2 with Int
+//      
